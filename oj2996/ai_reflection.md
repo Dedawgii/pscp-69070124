@@ -22,7 +22,7 @@ AI อาจช่วยตรวจ grammar, formatting หรือควา�
 
 | Item | Answer |
 |---|---|
-| OJ problem number/title | 2996 |
+| OJ problem number/title | OJ2996 - สลับตัวอักษร |
 | OJ submission ID, if submitted | 543798 |
 | OJ status | Pass |
 
@@ -45,7 +45,9 @@ Other: ...
 
 My answer:
 
+```text
 Gemini
+```
 
 ---
 
@@ -57,15 +59,17 @@ Gemini
 
 | Statement | Yes / No / Not Applicable | Short note |
 |---|---|---|
-| I read the relevant workflow before using AI. | Yes | Example: `workflows/STUDENT_WORKFLOW_WEB_CHAT.md`, `workflows/STUDENT_WORKFLOW_CHATGPT_CODEX.md`, `workflows/STUDENT_WORKFLOW_CLAUDE_CODE.md`, or another workflow announced by the instructor |
-| I used `instructions/COURSE_AI_INSTRUCTIONS.md`, `instructions/AGENTS.md`, or manually followed the course AI instructions if the tool did not support custom instructions. | Yes ใช้เพื่อให้ AI ทำหน้าที่เป็นคนสอนและแนะนำไม่ใช่คนเขียนโค้ดแทน | Briefly explain how you used or followed it |
-| I wrote my own problem understanding before asking AI for help. | No | Briefly say where you wrote it, such as `submission.md` or private note |
-| I wrote my own first plan before asking AI for help. | Yes ผมได้คิดแผนแรกก่อนจะถาม AI เพื่อแก้ไขควาใเข้าใจผิด | Briefly say where you wrote it |
-| I used AI as a coach, reviewer, debugger, or test-case helper, not as a full-answer generator. | Yes ผมใช้ AI โดยให้ทำหน้าที่สอนและแนะนำไม่ได้เขียนโค้ดแทน | Briefly explain |
+| I read the relevant workflow before using AI. | Yes |  |
+| I used `instructions/COURSE_AI_INSTRUCTIONS.md`, `instructions/AGENTS.md`, or manually followed the course AI instructions if the tool did not support custom instructions. | Yes |  |
+| I wrote my own problem understanding before asking AI for help. | No |  |
+| I wrote my own first plan before asking AI for help. | Yes |  |
+| I used AI as a coach, reviewer, debugger, or test-case helper, not as a full-answer generator. | Yes |  |
 
 ถ้าตอบ "No" ในข้อใด ให้อธิบายเหตุผล:
 
+```text
 ในข้อ I wrote my own problem understanding before asking AI for help. ที่ตอบ No เพราะผมได้เขียนความเข้าใจในตอนแรกให้ AI เลยไม่ได้คิดเองทั้งหมดแต่เริ่มเพราะผมไม่ได้ดู Test Case ตัวอย่าง จึงเกิดความเข้าใจผิดและไม่เข้าใจไม่ชัดเจน จึงนำมาสอบถาม AI หลังจากนั้น
+```
 
 ---
 
@@ -85,7 +89,9 @@ Gemini
 
 My answer:
 
+```text
 ผมใช้ AI อธิบายโจทย์ให้เข้าใจง่ายขึ้นและให้ช่วยเสนอ Test Cases
+```
 
 ---
 
@@ -104,7 +110,9 @@ My answer:
 
 My answer:
 
+```text
 ความเข้าใจผิดเกี่ยวกับโจทย์และ Condition ที่ยังไม่สมบูรณ์
+```
 
 ---
 
@@ -123,7 +131,9 @@ My answer:
 
 My answer:
 
+```text
 ผมได้ทดลองตาม Test Case ตัวอย่างผ่าน VS Code 
+```
 
 ---
 
@@ -137,7 +147,9 @@ My answer:
 
 My answer:
 
+```text
 AI สอนในส่วนที่ผมยังไม่รู้จนผมสามารถเข้าใจคำสั่งนั้นๆและเขียนด้วยตัวเองได้
+```
 
 ---
 
